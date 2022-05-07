@@ -1,0 +1,9 @@
+<svg class="lightning_1" width="110" viewBox="0 0 112 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3 61.5V56H39L32.5 29.5H68L61 3H108.5V8H68L73.5 35H39L45.5 61.5H3Z" stroke="url(#paint0_linear_73_2)"/>
+    <defs>
+    <linearGradient id="paint0_linear_73_2" x1="52.75" y1="0" x2="43" y2="76.5" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#4180FE"/>
+    <stop offset="1" stop-color="#A9E5FE"/>
+    </linearGradient>
+    </defs>
+</svg>
